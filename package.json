@@ -30,10 +30,6 @@
     "parse",
     "parser"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/nikezono/node-parse-rss"
-  },
   "main": "./lib/parse-rss.js",
   "scripts": {
     "test": "grunt test"
@@ -47,8 +43,5 @@
   },
   "directories": {
     "test": "test"
-  },
-  "__npminstall_done": "Fri Jan 04 2019 19:01:12 GMT+0800 (GMT+08:00)",
-  "_from": "parse-rss@1.0.3",
-  "_resolved": "http://registry.npm.taobao.org/parse-rss/download/parse-rss-1.0.3.tgz"
+  }
 }
